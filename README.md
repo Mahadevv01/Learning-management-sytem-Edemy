@@ -197,13 +197,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Thank you for checking out the **Edemy LMS** project! Happy coding! 😊
 
----
-## ⭐ Support
-Give a ⭐ if you like this project!
 
----
-Made with ❤️ by Gyan Pratap Singh
-
-### ⭐ Show Some Love!
-
-If you like this project, don't forget to leave a **⭐ Star** on GitHub! 🚀
