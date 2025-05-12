@@ -144,7 +144,7 @@ Edemy LMS is a full-stack learning management system (LMS) that provides educato
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Gyanthakur/Edemy-LMS.git
+git clone https://github.com/username/Edemy-LMS.git
 cd edemy-lms
 ```
 
@@ -191,10 +191,3 @@ vercel --prod
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-
-
-
-## Thank you for checking out the **Edemy LMS** project! Happy coding! 😊
-
-
