@@ -1,9 +1,4 @@
 
-<div align="center">
-  
-![favicon](https://github.com/user-attachments/assets/ba86af86-a98e-4842-9cc4-5871c5ef234b)
-
-</div>
 
 # Edemy LMS 🎓 - A Modern Learning Management System
 
