@@ -12,28 +12,31 @@ Edemy LMS is a full-stack learning management system (LMS) that provides educato
 
 ## 🚀 Tech Stack
 
-### Frontend:
-- **React** (via Vite) ⚡
-- **React Router DOM** for navigation
-- **React Toastify** for notifications
-- **Framer Motion** for animations
-- **Quill** for rich text editing
-- **Axios** for API requests
-- **RC Progress** for progress tracking
-- **React YouTube** for video embedding
-- **Clerk Authentication** for user management
+## 🛠️ Tech Stack
 
-### Backend:
-- **Node.js** & **Express.js** 🚀
-- **MongoDB** & **Mongoose** for database
-- **Cloudinary** for media storage
-- **Multer** for file uploads
-- **Stripe** for payment processing
-- **Cors** for cross-origin requests
-- **Dotenv** for environment variables
-- **Nodemon** for development
+### 🖥️ Frontend
 
----
+- **React (via Vite)** – High-performance frontend framework with fast refresh and build times.
+- **React Router DOM** – Enables seamless client-side routing for dynamic navigation between pages.
+- **React Toastify** – Provides clean, customizable toast notifications for user feedback.
+- **Framer Motion** – Used for implementing fluid animations and transitions to enhance UI/UX.
+- **Quill** – Rich text editor integration for advanced text formatting capabilities.
+- **Axios** – Simplifies HTTP requests and API communication with the backend.
+- **RC Progress** – Visual progress bars and indicators to track task or upload progress.
+- **React YouTube** – Embeds and controls YouTube videos within the application.
+- **Clerk Authentication** – User authentication and session management system for secure access control.
+
+### 🔧 Backend
+
+- **Node.js & Express.js** – Handles server-side logic, API routes, and middleware with scalability.
+- **MongoDB & Mongoose** – NoSQL database with schema modeling for data storage and retrieval.
+- **Cloudinary** – Cloud-based media management for storing and delivering images and videos.
+- **Multer** – Middleware for handling file uploads, especially multipart/form-data.
+- **Stripe** – Integrates payment processing, allowing secure and flexible transaction handling.
+- **CORS** – Enables cross-origin resource sharing for frontend-backend communication.
+- **Dotenv** – Loads environment variables from a `.env` file to manage sensitive configuration.
+- **Nodemon** – Automatically restarts the server during development when code changes are detected.
+
 
 ## 📂 Project Structure
 
@@ -121,18 +124,25 @@ Edemy LMS is a full-stack learning management system (LMS) that provides educato
 
 ## 📸 Screenshots
 
-| Page | Screenshot |
-|------|-----------|
-| **Home Page** | ![Home](https://github.com/user-attachments/assets/03cf6bd7-8c30-4817-ad49-4a8fe8000541) |
-| **Course Page** | ![Course](https://github.com/user-attachments/assets/e42c2660-8271-42ae-b7e3-c5278b6a9cf1) |
-| **My Enrollments** | ![Enrollments](https://github.com/user-attachments/assets/a88cf7c1-cab1-4106-a64d-d7cfd5d9d4b7) |
-| **Player Page** | ![Player](https://github.com/user-attachments/assets/cdc8fb2a-6f44-416f-b4bd-2f35b7acfbbd) |
-| **Educator Dashboard** | ![Dashboard](https://github.com/user-attachments/assets/6c3bec05-805e-4652-ac51-113fd870b267) |
-| **Add Course** | ![Add Course](https://github.com/user-attachments/assets/ee846dba-7b14-4006-ae95-8ff76402ed8d) |
-| **My Courses** | ![My Courses](https://github.com/user-attachments/assets/e9f1b602-fc46-4dd7-8833-f1d8b15f43a1) |
-| **Enrolled Students** | ![Enrolled Students](https://github.com/user-attachments/assets/6d118429-4aa0-487e-ad6c-1f37af3f9968) |
+### 🏠 Home Page
+![Home](https://github.com/user-attachments/assets/03cf6bd7-8c30-4817-ad49-4a8fe8000541)
 
-![image](https://github.com/user-attachments/assets/6eb66c29-6a73-4f98-9c15-7625a903a109)
+### 📚 Course Page
+![Course](https://github.com/user-attachments/assets/e42c2660-8271-42ae-b7e3-c5278b6a9cf1)
+
+### 🎓 My Enrollments
+![Enrollments](https://github.com/user-attachments/assets/a88cf7c1-cab1-4106-a64d-d7cfd5d9d4b7)
+
+### ▶️ Player Page
+![Player](https://github.com/user-attachments/assets/cdc8fb2a-6f44-416f-b4bd-2f35b7acfbbd)
+
+### ➕ Add Course
+![Add Course](https://github.com/user-attachments/assets/ee846dba-7b14-4006-ae95-8ff76402ed8d)
+
+### 📁 My Courses
+![My Courses](https://github.com/user-attachments/assets/e9f1b602-fc46-4dd7-8833-f1d8b15f43a1)
+
+
 
 
 
